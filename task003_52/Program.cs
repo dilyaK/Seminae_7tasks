@@ -1,4 +1,5 @@
-﻿
+﻿//Задайте двумерный массив  из целых чисел. Найлите среднее 
+//арифметическое элементов в каждом столбце.
 
 Console.Write("Enter M(number of columns): ");
 int m = Convert.ToInt32(Console.ReadLine());
