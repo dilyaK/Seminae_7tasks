@@ -20,7 +20,7 @@ for (int i = 0; i < m; i++)
 }
 
 
-Console.WriteLine("Column mean:");
+Console.WriteLine("Columns mean:");
 float[] average_by_cols = new float[n];
 
 for (int j = 0; j < n; ++j) // итерируемся по столбцам
