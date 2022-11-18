@@ -1,4 +1,6 @@
-﻿Console.Write("Enter M(number of columns): ");
+﻿
+
+Console.Write("Enter M(number of columns): ");
 int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Enter  N(number of rows): ");
 int n = Convert.ToInt32(Console.ReadLine());

@@ -1,4 +1,8 @@
-﻿Console.Write("Enter M: ");
+﻿//Напишите программу, которая принимает на вход позиции элемента 
+//в двумерном массиве и возвращает значение этого элемента или же указание, 
+//что такого элемента нет.
+
+Console.Write("Enter M: ");
 int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Enter N: ");
 int n = Convert.ToInt32(Console.ReadLine());
